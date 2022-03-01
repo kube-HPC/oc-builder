@@ -1,12 +1,11 @@
 {
   "name": "oc-builder",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./dockerfile/build.sh oc-builder"
-
   },
   "keywords": [],
   "author": "",
